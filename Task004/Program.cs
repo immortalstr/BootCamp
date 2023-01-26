@@ -1,4 +1,4 @@
-﻿
+﻿// Быстрая сортировка
 
 using static Sorting;
 
