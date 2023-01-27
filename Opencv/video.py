@@ -13,6 +13,7 @@ face_cascades = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_front
 
 # cv2.imshow('Result', img)
 # cv2.waitKey(0)
+# 
 
 cap = cv2.VideoCapture(0)
 
